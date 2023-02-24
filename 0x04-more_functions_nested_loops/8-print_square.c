@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_square - function that checks for uppercase character.
  * @size: the int for the paramaters of my function
